@@ -1,4 +1,4 @@
-## Interface: 30000
+## Interface: 30100
 ## Title: Magic Marker Data
 ## Notes: Preset data for importing into Magic Marker
 ## Author: NeoTron
