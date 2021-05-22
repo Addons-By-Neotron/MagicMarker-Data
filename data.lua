@@ -1,4 +1,4 @@
-MagicMarker_DataVersion = tonumber(("$Revision$"):match("%d+"))
+MagicMarker_DataVersion = tonumber(("@file-date-integer@"):match("%d+")) or 0
 MagicMarker_Data = {
    ["Mana-Tombs"] = {
       ["name"] = "Mana-Tombs",
