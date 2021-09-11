@@ -1,5 +1,5 @@
 ## Interface: 90100
-## Interface-BCC: 20501
+## Interface-BCC: 20502
 ## X-Curse-Project-ID: 14364
 ## Title: Magic Marker Data for Burning Crusade
 ## Notes: Preset data for importing into Magic Marker
