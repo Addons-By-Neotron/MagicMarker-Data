@@ -1,4 +1,4 @@
-## Interface: 90100
+## Interface: 90105
 ## Interface-BCC: 20502
 ## X-Curse-Project-ID: 14364
 ## Title: Magic Marker Data for Burning Crusade
