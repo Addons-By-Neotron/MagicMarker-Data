@@ -1,4 +1,4 @@
-## Interface: 110000
+## Interface: 110002
 ## Interface-BCC: 20502
 ## Interface-Wrath: 40400
 ## X-Curse-Project-ID: 14364
